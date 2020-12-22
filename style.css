@@ -1,0 +1,31 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+}
+.moviediv{
+    font-size: 25px;
+    padding: 5px 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.moviediv i {
+    float: right;
+}
+.moviediv span {
+    margin-right: 10px;
+}
